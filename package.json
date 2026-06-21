@@ -1,0 +1,38 @@
+{
+  "name": "fem-social-media-dashboard-with-theme-switcher",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oyematth/FEM-Social-media-dashboard-with-theme-switcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Oyematth/FEM-Social-media-dashboard-with-theme-switcher/issues"
+  },
+  "homepage": "https://github.com/Oyematth/FEM-Social-media-dashboard-with-theme-switcher#readme",
+  "dependencies": {
+    "dart-sass": "^1.25.0",
+    "gulp": "^5.0.1",
+    "gulp-babel": "^8.1.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-sass": "^6.0.1",
+    "gulp-terser": "^2.1.0",
+    "postcss": "^8.5.15",
+    "sass": "^1.101.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^8.0.1",
+    "@babel/preset-env": "^8.0.2",
+    "autoprefixer": "^10.5.0",
+    "browser-sync": "^3.0.4",
+    "cssnano": "^8.0.2"
+  }
+}
